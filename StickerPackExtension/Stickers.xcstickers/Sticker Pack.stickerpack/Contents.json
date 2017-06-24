@@ -1,9 +1,23 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Beavz2017.sticker"
+    },
+    {
+      "filename" : "floof2017-medium.sticker"
+    },
+    {
+      "filename" : "DogBun2017.sticker"
+    },
+    {
+      "filename" : "penBun2017.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
